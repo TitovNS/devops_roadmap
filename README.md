@@ -89,7 +89,7 @@
     
 - ### Git
   - Videos:
-    - ==сходу не придумал, надо найти==
+    - [Git за час](https://www.youtube.com/watch?v=UkRJ7PjL0c0&ab_channel=CiscoNeSlabo%2FSEDICOMMTV)
     - 
     - 
   - Books/Docs/Code:
