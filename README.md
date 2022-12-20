@@ -93,7 +93,7 @@
     - 
     - 
   - Books/Docs/Code:
-    - ==также найти, углубленно изучить==
+    - [Git - Book](https://git-scm.com/book/ru/v2)
   - Games:
     - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
 
