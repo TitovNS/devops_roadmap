@@ -59,20 +59,20 @@
     - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/)
     - ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/)
   - Books/Docs/Code:
-    - ==книга 1==
-    - ==книга 2==
+    - Python и DevOps: Ключ к автоматизации Linux
+    - Дэн Бейдер: Чистый Python. Тонкости программирования для профи
 - ### Golang
   - Videos:
     - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language)
-  - Books/Docs/Code:
-    - ==книга 1==
-    - ==книга 2==
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
     - [LPIC-1 (exam 101) (Kirill Semaev)](https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&ab_channel=KirillSemaev)
     - [LPIC-1 (exam 102) (Kirill Semaev)](https://www.youtube.com/watch?v=aRcRAA1Gj_4&list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&ab_channel=KirillSemaev)
     - [Linux для начинающих (ADV-IT)](https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&ab_channel=ADV-IT) (English Language)
+  - Books/Docs/Code:
+    - Линус Торвальдс, Дэвид Даймонд - Just for fun
+    - Эви Немет, Гарт Снайдер, Трент Р. Хейн - Руководство администратора Linux
     
 - ### Docker (Mandatory)
   - Videos:
