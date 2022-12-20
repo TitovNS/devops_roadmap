@@ -69,7 +69,7 @@
   - Videos:
     - [LPIC-1 (exam 101) (Kirill Semaev)](https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&ab_channel=KirillSemaev)
     - [LPIC-1 (exam 102) (Kirill Semaev)](https://www.youtube.com/watch?v=aRcRAA1Gj_4&list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&ab_channel=KirillSemaev)
-    - [Linux для начинающих (ADV-IT)](https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&ab_channel=ADV-IT) (English Language)
+    - [Linux для начинающих (ADV-IT)](https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&ab_channel=ADV-IT)
   - Books/Docs/Code:
     - Линус Торвальдс, Дэвид Даймонд - Just for fun
     - Эви Немет, Гарт Снайдер, Трент Р. Хейн - Руководство администратора Linux
@@ -77,21 +77,18 @@
 - ### Docker (Mandatory)
   - Videos:
     - [Docker Основы (ADV-IT)](https://www.youtube.com/watch?v=I18TNwZ2Nqg&t=5s&ab_channel=ADV-IT)
-    - ==найти еще что-нибудь, где указано про файловую систему и тонкости==
   - Books/Docs/Code:
-    - ==добавить книгу и прочитать==
+    - [Цикл статей на хабре](https://habr.com/ru/company/ruvds/blog/438796/)
 
 - ### Bash-Script
   - Videos:
-    - ==найти видео или курс==
+    - [Bash scripting](https://www.youtube.com/watch?v=KsRRA9BvigE&list=PLk6X0QSnWKVZ7AJkoEN5JSWphjslKbh9G&index=8&ab_channel=Linux4Me)
   - Books/Docs/Code:
-    - ==книга 1==
+    - [Программирование на Bash с нуля](https://leanpub.com/programming-from-scratch/read)
     
 - ### Git
   - Videos:
     - [Git за час](https://www.youtube.com/watch?v=UkRJ7PjL0c0&ab_channel=CiscoNeSlabo%2FSEDICOMMTV)
-    - 
-    - 
   - Books/Docs/Code:
     - [Git - Book](https://git-scm.com/book/ru/v2)
   - Games:
@@ -100,8 +97,7 @@
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
     - [Terraform основы (ADV-IT)](https://www.youtube.com/watch?v=UNP8I7i_5cU&list=PLg5SS_4L6LYsUzsBeN8rPe1EoqKWhMlnF&ab_channel=ADV-IT)
-    - [Terraform Tutorial](https://github.com/ahmadalibagheri/terraform-tutorial) (Sample Traning Code from non public cloud provider)
-    - ==найти книгу и курс==
+    - [Статья на хабре](https://habr.com/ru/post/684964/)
 
 ## Step 2: Configuration Managment
 - ### Ansible (Strongly Recommended)
@@ -109,8 +105,7 @@
     - [Ansible Основы (ADV-IT)](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N&ab_channel=ADV-IT)
   - Books/Docs/Code:
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
-    - [Ansible for DevOps](https://www.amazon.com/Ansible-DevOps-Server-configuration-management/dp/0986393428/ref=sr_1_4) (Advanced Book)
-    - ==поискать книги==
+    - ЗАПУСКАЕМ ANSIBLE - Мозер Р., Хоштейн Л.
 - ### Puppet (Important)
 - ### SaltStack (Normal)
 - ### Chef (Normal)
