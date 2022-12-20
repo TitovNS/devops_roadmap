@@ -135,10 +135,10 @@
 ## Step 4: Container Orchestration
 - ### Kubernetes
   - Videos:
-    - ==найти==
+    - [Основы Kubernetes (ADV-IT)](https://www.youtube.com/watch?v=q_nj340pkQo&list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi&ab_channel=ADV-IT)
     - 
   - Books/Docs/Code:
-    - ==найти==
+    - Kubernetes для DevOps: развертывание, запуск и масштабирование в облаке (o'reilly)
   - Real-World sample code
     - [Kubernetes in real world](https://github.com/Mozart4242/kubernetes-real-world)
 
@@ -149,8 +149,7 @@
   - Books/Docs/Code:
     - [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/ref=sr_1_1) (English Book)
   - Video
-    - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
-- ### ELK Stack (Free)
+    - [Развертывание и настройка Prometheus и Grafana](https://www.youtube.com/watch?v=RBCEef43FBQ&ab_channel=SpecialistTV)
   - Videos:
     - [Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/) (To learn elasticsearch itself)
     - [Data Visualization with Kibana](https://www.udemy.com/course/data-visualization-with-kibana/) (To learn the visualizations with Kibana)
