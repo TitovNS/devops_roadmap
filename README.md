@@ -54,9 +54,9 @@
 
 - ### Python
   - Videos:
-    - [ ] [Python для начинающих (ADV-IT)](https://www.youtube.com/watch?v=gJfYu1R8TL8&list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6&ab_channel=ADV-IT)
-    - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/)
-    - ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/)
+    - [x] [Python для начинающих (ADV-IT)](https://www.youtube.com/watch?v=gJfYu1R8TL8&list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6&ab_channel=ADV-IT)
+    - [x] ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/)
+    - [x] ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/)
   - Books/Docs/Code:
     - Python и DevOps: Ключ к автоматизации Linux
     - Дэн Бейдер: Чистый Python. Тонкости программирования для профи
@@ -65,14 +65,14 @@
   - Videos:
     - [LPIC-1 (exam 101) (Kirill Semaev)](https://www.youtube.com/watch?v=rKCu-tfL730&list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&ab_channel=KirillSemaev)
     - [LPIC-1 (exam 102) (Kirill Semaev)](https://www.youtube.com/watch?v=aRcRAA1Gj_4&list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&ab_channel=KirillSemaev)
-    - [Linux для начинающих (ADV-IT)](https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&ab_channel=ADV-IT)
+    - [x] [Linux для начинающих (ADV-IT)](https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&ab_channel=ADV-IT)
   - Books/Docs/Code:
-    - Линус Торвальдс, Дэвид Даймонд - Just for fun
+    - [x] Линус Торвальдс, Дэвид Даймонд - Just for fun
     - Эви Немет, Гарт Снайдер, Трент Р. Хейн - Руководство администратора Linux
     
 - ### Docker (Mandatory)
   - Videos:
-    - [Docker Основы (ADV-IT)](https://www.youtube.com/watch?v=I18TNwZ2Nqg&t=5s&ab_channel=ADV-IT)
+    - [x] [Docker Основы (ADV-IT)](https://www.youtube.com/watch?v=I18TNwZ2Nqg&t=5s&ab_channel=ADV-IT)
   - Books/Docs/Code:
     - [Цикл статей на хабре](https://habr.com/ru/company/ruvds/blog/438796/)
 
@@ -84,11 +84,11 @@
     
 - ### Git
   - Videos:
-    - [Git за час](https://www.youtube.com/watch?v=UkRJ7PjL0c0&ab_channel=CiscoNeSlabo%2FSEDICOMMTV)
+    - [x] [Git за час](https://www.youtube.com/watch?v=UkRJ7PjL0c0&ab_channel=CiscoNeSlabo%2FSEDICOMMTV)
   - Books/Docs/Code:
-    - [Git - Book](https://git-scm.com/book/ru/v2)
+    - [x] [Git - Book](https://git-scm.com/book/ru/v2)
   - Games:
-    - [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
+    - [x] [Oh my git!](https://ohmygit.org/) (English Language)(If you prefer to learn while having fun)
 
 ## Step 1: IaC (Infrastructure as Code)
 - ### Hashicorp Terraform (Strongly Recommended)
@@ -98,13 +98,10 @@
 ## Step 2: Configuration Managment
 - ### Ansible (Strongly Recommended)
   - Videos:
-    - [Ansible Основы (ADV-IT)](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N&ab_channel=ADV-IT)
+    - [x] [Ansible Основы (ADV-IT)](https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N&ab_channel=ADV-IT)
   - Books/Docs/Code:
     - [Ansible Tutorial](https://github.com/ahmadalibagheri/Ansible-tutorial) (Sample Traning Code)
     - ЗАПУСКАЕМ ANSIBLE - Мозер Р., Хоштейн Л.
-- ### Puppet (Important)
-- ### SaltStack (Normal)
-- ### Chef (Normal)
 
 ### Step 2.5: End-to-End Automation
 - #### End-to-End Automation on VMware vsphere with Ansible and Terraform
@@ -119,14 +116,9 @@
     - ==найти==
 
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
-- ### Jenkins (Suitable for CI and CD in ALl infrastructure)(Free) (Strongly Recommended)
-    - [Jenkins Основы (ADV-IT)](https://www.youtube.com/watch?v=cyb10iplv7U&list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a&ab_channel=ADV-IT)
 - ### GitLab (Important)
   - Books/Docs/Code:
     - ==найти==
-- ### CircleCI 
-- ### Teamcity
-- ### Bamboo
 
 ## Step 4: Container Orchestration
 - ### Kubernetes
@@ -159,11 +151,10 @@
 ## Step 6: Public Clouds
 - ### Amazon Web Services (AWS)
   - Video:
-     - [AWS Основы (ADV-IT)](https://www.youtube.com/watch?v=8jbx8O3wuLg&list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9&ab_channel=ADV-IT)
+     - [AWS (ADV-IT)](https://www.youtube.com/watch?v=8jbx8O3wuLg&list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9&ab_channel=ADV-IT)
 
 ## Step 7: Getting familiar with Agile software development
 📌 If you made yourself through here, it means that you are now a capable DevOps Engineer. from now on, we need to focus on something furthur than using technologies. in order to become a senior, you need to be aware of all the aspects.
-
 
 - [Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices-ebook/dp/B00IZ0G6YG)
