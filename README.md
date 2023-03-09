@@ -11,7 +11,6 @@
 
 - [Programming language](#programing-language)
   - [Python](#Python)
-  - [Golang](#Golang)
 - [Step 0: Basic](#step-0-basic-requirements)
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker](#docker-mandatory)
@@ -55,15 +54,12 @@
 
 - ### Python
   - Videos:
-    - [Python для начинающих (ADV-IT)](https://www.youtube.com/watch?v=gJfYu1R8TL8&list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6&ab_channel=ADV-IT)
+    - [] [Python для начинающих (ADV-IT)](https://www.youtube.com/watch?v=gJfYu1R8TL8&list=PLg5SS_4L6LYtHCActBzbuGVYlWpLYqXC6&ab_channel=ADV-IT)
     - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/)
     - ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/)
   - Books/Docs/Code:
     - Python и DevOps: Ключ к автоматизации Linux
     - Дэн Бейдер: Чистый Python. Тонкости программирования для профи
-- ### Golang
-  - Videos:
-    - [Golang Tutorial for Beginners](https://m.youtube.com/watch?v=YS4e4q9oBaU) (English Language)
 ## Step 0: Basic requirements
 - ### Linux (LPIC-1)
   - Videos:
